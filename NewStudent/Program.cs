@@ -22,6 +22,9 @@ namespace NewStudent
             
             // singleton pattern : using private constructor 
             ExampleSingleton(); 
+            
+            // new a Student and set it's member directly 
+            var std = new Student() { No = "123" }; 
 
         }
 
@@ -82,6 +85,11 @@ namespace NewStudent
             No = no;
             Name = name; 
         }
+
+        public Student()
+        {
+        }
+        
     }
 
     internal class ClassRoom
