@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine2", "Engine2\Engine2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension", "Extension\Extension.csproj", "{3C83BE72-600E-4526-A7DF-178B0C4A8337}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functional", "Functional\Functional.csproj", "{938B9FEA-DF7C-4FD1-ADD3-1E2220C64670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionAndFunc", "ActionAndFunc\ActionAndFunc.csproj", "{137E11F5-EB2F-4D8D-8B26-6CCA27DD4C85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{3C83BE72-600E-4526-A7DF-178B0C4A8337}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C83BE72-600E-4526-A7DF-178B0C4A8337}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C83BE72-600E-4526-A7DF-178B0C4A8337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938B9FEA-DF7C-4FD1-ADD3-1E2220C64670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938B9FEA-DF7C-4FD1-ADD3-1E2220C64670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938B9FEA-DF7C-4FD1-ADD3-1E2220C64670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938B9FEA-DF7C-4FD1-ADD3-1E2220C64670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137E11F5-EB2F-4D8D-8B26-6CCA27DD4C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137E11F5-EB2F-4D8D-8B26-6CCA27DD4C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137E11F5-EB2F-4D8D-8B26-6CCA27DD4C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137E11F5-EB2F-4D8D-8B26-6CCA27DD4C85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
