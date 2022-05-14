@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functional", "Functional\Fu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionAndFunc", "ActionAndFunc\ActionAndFunc.csproj", "{137E11F5-EB2F-4D8D-8B26-6CCA27DD4C85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqGroup", "LinqGroup\LinqGroup.csproj", "{50C0893D-AED4-435F-81B3-B2DCB0F1E6A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{137E11F5-EB2F-4D8D-8B26-6CCA27DD4C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{137E11F5-EB2F-4D8D-8B26-6CCA27DD4C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{137E11F5-EB2F-4D8D-8B26-6CCA27DD4C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C0893D-AED4-435F-81B3-B2DCB0F1E6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C0893D-AED4-435F-81B3-B2DCB0F1E6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C0893D-AED4-435F-81B3-B2DCB0F1E6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C0893D-AED4-435F-81B3-B2DCB0F1E6A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
